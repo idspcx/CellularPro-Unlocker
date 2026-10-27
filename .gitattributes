@@ -1,0 +1,6 @@
+* text=auto eol=lf
+*.apk binary
+*.zip binary
+*.so binary
+*.jar binary
+*.dex binary
