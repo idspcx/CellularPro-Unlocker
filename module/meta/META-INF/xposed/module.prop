@@ -1,0 +1,7 @@
+name=CellularPro Unlocker
+summary=会员功能解锁 · 入口补全
+description=CellularPro (make.more.r2d2.play.cellular_pro) 解锁模块。补全 About 页被拦截的入口(业务测试/文件管理/LOG回放), 并提供 flags.txt 热加载开关。会员功能本身由配套的 KernelSU 模块解锁。
+version=1.0
+versionCode=1
+minApiVersion=100
+targetApiVersion=102

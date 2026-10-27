@@ -1,0 +1,6 @@
+# build outputs
+*.apk
+*.idsig
+*.dex
+bin/
+lib/classes.jar
