@@ -1,7 +1,0 @@
-name=CellularPro Unlocker
-summary=信令导出 · 测试计划 · 入口补全
-description=CellularPro (make.more.r2d2.play.cellular_pro) 解锁模块：信令导出直接落盘、测试计划页面直开、About 页被拦截入口补全。不再强改会员判定，避免闪退。
-version=2.0
-versionCode=2
-minApiVersion=100
-targetApiVersion=102
